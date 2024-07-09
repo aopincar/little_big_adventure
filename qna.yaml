@@ -22,6 +22,9 @@ seed_examples:
    answer: |
     There are four different behaviour modes that the hero can switch to, Normal, Athletic/Sporty,
     Aggressive, and Discreet
+ - question: Who is Twinsen's girlfriend?
+   answer: |
+    Zoe is Twinsen's girlfriend.
 document:
  repo: https://github.com/aopincar/little_big_adventure.git
  commit: 7565f02

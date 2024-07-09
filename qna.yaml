@@ -5,25 +5,25 @@ domain: pc_games
 seed_examples:
  - question: What is the name of the game?
    answer:
-     The name of the game is Little Big Adenture
- - question:  When was the game released and by whom?
+    The name of the game is Little Big Adenture
+ - question: When was the game released and by whom?
    answer: |
-     The game was released in 1994 by Adeline Software International.
+    The game was released in 1994 by Adeline Software International.
  - question: On which planet does the game take place and how many suns does it have?
    answer: |
-     The game takes place on a planet named Twinsun, which has two suns.
+    The game takes place on a planet named Twinsun, which has two suns.
  - question: How many different species populate Twinsun?
    answer: |
-     Twinsun is home to four different sentient species, Quetches, Spheros, Grobos, and Rabbibunnies.
+    Twinsun is home to four different sentient species, Quetches, Spheros, Grobos, and Rabbibunnies.
  - question: Who is the hero of the game?
    answer: |
-     Twinsen is the hero of the game
- - qustion: How many different behaviour modes are there in the game, and what are they?
+    Twinsen is the hero of the game
+ - question: How many different behaviour modes are there in the game, and what are they?
    answer: |
-     There are four different behaviour modes that the hero can switch to, Normal, Athletic/Sporty, Aggressive, and Discreet
+    There are four different behaviour modes that the hero can switch to, Normal, Athletic/Sporty,
+    Aggressive, and Discreet
 document:
  repo: https://github.com/aopincar/little_big_adventure.git
  commit: 7565f02
  patterns:
-   - little_big_adventure_partial.md
-
+  - little_big_adventure_partial.md
